@@ -18,7 +18,7 @@ O site apresenta o Chalé Hotel, destacando informações sobre acomodações, s
 
 ## 📸 Prévia do Site
 <!-- Substitua o link abaixo por uma imagem ou gif do seu projeto -->
-![Prévia do Chalé Hotel](link-da-imagem-ou-gif)
+![Prévia do Chalé Hotel](https://github.com/daviiS7/site-ficticio-chale-hotel/blob/main/chale-hotel.png)
 
 ---
 
